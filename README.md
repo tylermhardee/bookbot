@@ -1,4 +1,4 @@
-# Bookbot
+# bookbot
 
-A project to practice programming. More updates to come!
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
 
